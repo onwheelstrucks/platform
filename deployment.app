@@ -3,3 +3,4 @@ ansible
 maven
 kubernetes
 nodeJS
+tomcat
